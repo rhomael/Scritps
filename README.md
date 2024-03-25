@@ -1,8 +1,8 @@
-### INSTALACAO SCRIPT ZABBIX GRAFANA
+### ZABBIX GRAFANA SCRIPT INSTALLATION
 
-### PASSOS:
+### STEPS:
 
-1. Entrar no diretorio cd /tmp/
-2. Utilize o vi, vim ou nano e copie e cole o script, e salve com o nome install-zabbix-grafana.sh
-3. De permissao ao arquivo: sudo chmod +x install-zabbix-grafana.sh
-4. Execute o script: ./install-zabbix-grafana.sh
+1. Go to the directory cd /tmp/
+2. Use vi, vim or nano and copy and paste the script, and save it with the name install-zabbix-grafana.sh
+3. File permission: sudo chmod +x install-zabbix-grafana.sh
+4. Run the script: ./install-zabbix-grafana.sh
